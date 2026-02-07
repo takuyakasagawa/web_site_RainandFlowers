@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
         has: [
           {
             type: "host",
-            value: "web-site-rainandflowers.vercel.app",
+            value: "web-site-rainand-flowers.vercel.app",
           },
         ],
         destination: "https://rainandflowers.vercel.app/:path*",
